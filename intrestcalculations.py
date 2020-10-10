@@ -1,5 +1,5 @@
 # Intrest calculator
-
+#
 principal=int(input('enter starting value: '))
 interest=float(input('enter interest rate: '))
 years=int(input('how many years?: '))
